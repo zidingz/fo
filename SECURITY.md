@@ -2,4 +2,4 @@
 
 ## Reporting a Vulnerability
 
-Please report security issues to `````asshjsssjsjsjhjhsjhsjhsjhsjhsjahsjhsajdhasjhadhjdasdhkjhsadkjhaskdjh```jamie@418sec.com`
+Please report security issues to `jamie@418sec.com`
